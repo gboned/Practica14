@@ -27,3 +27,6 @@ function cambiarMedidasImagen() {
     })
 
 }
+
+// Cargo función al abrir la página.
+cambiarMedidasImagen();
